@@ -1,0 +1,79 @@
+**Godly Laiju**
+Arackal (H), Angamaly, Ernakulam, Kerala
+✉️ [godlylaijuarackal@gmail.com](mailto:godlylaijuarackal@gmail.com)  |  💻 [github.com/GodlyLaiju](https://github.com/GodlyLaiju)  |  [linkedin.com/in/godly-laiju-596795241](https://www.linkedin.com/in/godly-laiju-596795241)
+
+---
+
+## Professional Summary
+
+A diligent Software Engineer with nearly two years of hands-on experience in Python development, web-scale API design, and orchestrating data workflows on cloud platforms. Adept at architecting and delivering high-availability microservices using Django REST Framework and FastAPI, backed by PostgreSQL and MongoDB. Proven track record in end-to-end ETL automation with Apache Airflow and Temporal.io on GCP, and seamless integration of AI/LLM capabilities to accelerate business insights.
+
+Currently pursuing an M.Tech in VLSI & Embedded Systems, complementing a B.Tech in Electronics and Communication Engineering (CGPA 8.3). Passionate about deepening expertise in Artificial Intelligence—particularly prompt engineering, LLM integration, and machine-learning pipelines—and committed to applying AI to solve complex, real-world challenges at scale.
+
+---
+
+## Core Competencies
+
+* **Programming & Frameworks:** Python, Java, HTML5/CSS, Django REST, FastAPI, Bootstrap
+* **Databases & Storage:** PostgreSQL, MongoDB, Google BigQuery, AWS S3, Google Cloud Storage, MinIO
+* **Orchestration & Messaging:** Apache Airflow, Temporal.io, Google Pub/Sub, WebSockets
+* **Containerization & Infra:** Docker, GCP Services, Cloud-native design
+* **Testing & Performance:** Pytest, Locust
+* **AI & ML:** Large Language Models, Prompt Engineering, ML workflow design
+
+---
+
+## Professional Experience
+
+### Software Engineer, QBurst Technologies
+
+*Sep 2023 – Present*
+
+* **Microservices Architecture:** Designed and implemented Python-based services using Django REST and FastAPI, ensuring modularity and scalability.
+* **Data Orchestration:** Architected ETL pipelines with Airflow and Temporal on GCP, scheduling daily ingestions and isolating test environments to guarantee reliability.
+* **AI Integration:** Embedded AI-driven agents into workflows to autonomously trigger ETL processes and generate real-time insights.
+* **API & UX Collaboration:** Developed REST endpoints for transcript uploads, LLM-based summarization, and CRUD operations on meeting summaries, working closely with front-end teams to optimize user experience.
+
+---
+
+## Key Projects
+
+* **Automated Data Pipeline & AI-Driven Chat Agent** (Feb 2025 – Jun 2025)
+  Built a fully automated, scheduled data-ingestion pipeline coupled with an AI chat interface for on-demand analytics. Integrated an LLM into the Temporal workflow to drive ETL orchestration end-to-end.
+
+* **Automated Meeting Summary Generator** (Sep 2024 – Nov 2024)
+  Created FastAPI endpoints to upload meeting transcripts, invoke an LLM for summary generation, and store/edit/download results. Enabled seamless front-end integration for real-time collaboration.
+
+* **Conversational E-Commerce Assistant** (Mar 2024 – May 2024)
+  Prototyped an AI chatbot that parses shopping intents into structured queries, integrates an LLM for intent extraction, and routes user requests to appropriate workflows for search and cart management.
+
+---
+
+## Education
+
+* **M.Tech in VLSI & Embedded Systems** (in progress)
+    APJ Abdul Kalam Technological University (FISAT), Kerala
+ expected completion 2025 september
+
+* **B.Tech in Electronics & Communication Engineering**
+  APJ Abdul Kalam Technological University (FISAT), Kerala
+  CGPA: 8.3 | Jun 2019 – May 2023
+
+---
+
+## Certifications & Leadership
+
+* **Internships:**
+
+  * Ethical Hacking & Cybersecurity, INDUSTRUS TECH (Aug 2021)
+  * Arduino Programming, KELTRON (Apr 2021)
+
+* **IEEE Member:** Active participant and event organizer for 3 years.
+
+* **NSS Leader:** Chaired community service and blood-donation drives during higher secondary studies.
+
+---
+
+## Interests & Aspirations
+
+A fitness enthusiast and perpetual learner, I thrive on collaborative problem-solving and continuous upskilling—especially in AI and embedded systems. My goal is to pioneer intelligent, data-driven applications that elevate user experiences and drive measurable impact.
